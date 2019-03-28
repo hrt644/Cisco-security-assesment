@@ -1,5 +1,5 @@
 # Cisco Security Assesment Tool
- This tool evaluate security assessment in Cisco Routers and Switches. The assessments includes:
+ This tool evaluate security assessment in Cisco Routers and Switches. The assessment includes:
  <ul>
  <li>IOS Version</li>
  <li>Time-out</li>

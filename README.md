@@ -1,5 +1,20 @@
 # Cisco Security Assesment Tool
- Security Assessment for Cisco Routers and Switches
+ This tool evaluate security assessment in Cisco Routers and Switches. The assessments includes:
+ <ul>
+ <li>IOS Version</li>
+ <li>Time-out</li>
+ <li>Password Encryption</li>
+ <li>Service Encryption</li>
+ <li>SSH Version</li>
+  <li>Port Security </li>
+ <li>SSH Authetication</li>
+ <li>SNMP </li>
+ <li>Storm Control</li>
+ <li>Http/Https </li>
+  <li>DHCP Snooping </li>
+ <li>ARP Snooping</li>
+ <li>Default Vlan </li>
+ </ul>
 
 
 <h3>prerequisites:</h3>

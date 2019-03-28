@@ -2,7 +2,7 @@
 Security Assessment for Cisco Routers and Switches
 
 
-<b>prerequisites</b>:
+<h3>prerequisites</h3>:
 
 1- installing python 3.7
     Download Python 3.7: https://www.python.org/downloads/

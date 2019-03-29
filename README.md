@@ -19,14 +19,14 @@
 
 <h3>prerequisites:</h3>
 
-1- installing python 3.7
+1- Install python 3.7
     Download Python 3.7: https://www.python.org/downloads/
     
     
-2- installing  <b>pip install netmiko</b><br />
+2- Install this command:   <b>pip install netmiko</b><br />
    For more information about netmiko refer to this link: https://pypi.org/project/netmiko/  <br />
    
-3- set your device ip, usernamne, password and secret in route:
+3- set your device IP, usernamne, password and secret in route:
 <br />
 <pre>
 router = {"device_type": "cisco_ios",

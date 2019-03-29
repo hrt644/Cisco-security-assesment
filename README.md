@@ -24,6 +24,16 @@
     
     
 2- installing  <b>pip install netmiko</b><br />
-   For more information about netmiko refer to this link: https://pypi.org/project/netmiko/
+   For more information about netmiko refer to this link: https://pypi.org/project/netmiko/  <br />
    
+3- set your device ip, usernamne, password and secret in route:
+<br />
+<pre>
+router = {"device_type": "cisco_ios",
+           "host": "192.168.0.10",
+           "user": "hamid",
+           "pass": "cisco",
+           "secret":"cisco"
+           }
+</pre>   
    

@@ -2,7 +2,7 @@
  This tool evaluate security assessment in Cisco Routers and Switches. The assessment includes:
  <ul>
  <li>IOS Version</li>
- <li>Time-out</li>
+ <li>Time-out session</li>
  <li>Password Encryption</li>
  <li>Service Encryption</li>
  <li>SSH Version</li>

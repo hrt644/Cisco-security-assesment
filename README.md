@@ -1,4 +1,4 @@
-# Cisco Security Assesment Tool
+# Cisco Configuration Assesment Tool
  This tool evaluate security assessment in Cisco Routers and Switches. The assessment includes:
  <ul>
  <li>IOS Version</li>
